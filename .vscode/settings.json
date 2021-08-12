@@ -18,5 +18,8 @@
         "**/.git/subtree-cache/**": true,
         "**/.git/*/**": true,
         "**/node_modules/*/**": true
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
     }
 }
